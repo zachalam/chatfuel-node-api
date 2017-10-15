@@ -1,4 +1,4 @@
-# Project Title
+# Broadcast Chatfuel Messages (Node)
 
 Broadcast messages to your chatbot users with this unofficial chatfuel api wrapper.
 
